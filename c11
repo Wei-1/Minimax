@@ -1,0 +1,1 @@
+clang++ -std=c++11 -stdlib=libc++ -Weverything -Wno-c++98-compat -o $2 $1
